@@ -1,0 +1,237 @@
+.form-preview-stage .field-items.current-editing {
+  background-color: rgba(255, 185, 0, 0.15);
+}
+
+.form-preview-stage .field-items.current-editing.ui-sortable-helper {
+  background-color: #fff;
+}
+.form-preview-stage .field-items.ui-sortable-helper {
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.form-preview-stage .form-preview-stage-dropzone {
+  background-color: rgba(255, 185, 0, 0.3) !important;
+  border: 1px solid #ffb900;
+  height: 50px;
+}
+.form-preview-stage .contactum-submit + .button + .form-preview-stage-dropzone,
+.form-preview-stage .field-items.empty-list-item + .form-preview-stage-dropzone {
+  display: none;
+}
+
+.form-preview-stage .field-items.empty-list-item {
+  padding: 24px;
+  margin: 0;
+  border: 1px dashed rgba(35, 40, 45, 0.5);
+}
+
+.form-preview-stage .form-preview-stage-dropzone + .field-items.empty-list-item {
+  display: none;
+}
+
+
+.list-inline {
+  display: flex;
+}
+
+.list-inline li {
+  margin-right: 5px;
+}
+
+.option-btn {
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 5px;
+  display: inline-block;
+  border: 1px solid transparent;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 8px;
+}
+
+.option-actions {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.option-add {
+    background: black;
+    margin-right: 5px;
+}
+
+.option-remove {
+    background: red;
+}
+
+.panel-field-btn-group button {
+    flex-basis: 33%;
+    color: #fff;
+    border: none;
+    background-color: red;
+    padding: 5px 8px;
+    cursor: pointer;
+    border-right: 2px solid #fff;
+    box-sizing: content-box;
+    display: block;
+}
+
+.selectize-element-group.active + .selectize-control {
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.selectize-element-group {
+    display: none;
+}
+
+.selectize-element-group + .selectize-control {
+    display: none;
+}
+
+.panel-field-date input[type='date'] {
+    width: 100%;
+}
+
+.panel-header h2, .panel-header h3 {
+    background: #fff;
+    padding: 10px 15px;
+    border-bottom: 1px solid #e3e5e8;
+    border-top: 1px solid #e3e5e8;
+    display: block;
+    cursor: pointer;
+}
+
+.conditional {
+    display: flex;
+    justify-content: space-between;
+}
+
+.conditional-btn {
+  padding: 8px 15px;
+  width: 50px !important;
+}
+
+
+
+input [type='text'], input [type='number'] {
+  background: #fff !important;
+  border: 1px solid #dadbdd  !important;
+}
+
+
+.contactum-btn, .contactum-btn:hover {
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 10px 20px;
+  background: #409EFF;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.show-inline {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.btn-image {
+  background: #ecf5ff;
+  border: 1px solid #b3d8ff;
+  border-radius: 7px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  padding: 12px 20px;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  color: #1a7efb !important;
+  text-decoration: none;
+}
+
+.contactum-label {
+  margin-bottom: 10px !important;
+  /* display: inline-block; */
+  display: block;
+}
+
+
+.modal-header div {
+  display: flex;
+  justify-content: space-between;
+}
+
+#wpcontent {
+  padding-left: 0;
+}
+
+
+.el-input__inner, .el-textarea__inner {
+  background: #fff  !important;
+}
+
+.contactum-fields .first-name, .contactum-fields .last-name, .contactum-fields .middle-name {
+  flex: 1;
+}
+
+
+/*** element ui change **/
+
+.el-button--danger {
+  background-color: #DC2727  !important;
+}
+
+.form-field-name_field .contactum-fields {
+  display: flex;
+}
+
+.form-field-address_field .fields {
+  display: flex !important;
+  flex-wrap: wrap;
+  /* gap: 30px; */
+  box-sizing: border-box;
+}
+
+.form-field-address_field .address-field  {
+  flex-basis: 50%;
+}
+
+.image_type img {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+
+.toc-container {
+  display: flex;
+}
+
+
+.contactum-fields li.image_type input[type="radio"], .contactum-fields li.image_type input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+
+
+.contactum_card {
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px 0 hsla(0,0%,51%,.1);
+  padding: 24px;
+  margin-bottom: 30px;
+}

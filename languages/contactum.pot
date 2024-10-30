@@ -1,0 +1,1932 @@
+# Copyright (C) 2023
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/contactum\n"
+"POT-Creation-Date: 2023-10-31 04:49:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-pro-upgrade-fields.php:12
+msgid "Google Map"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:23
+#: includes/fields/class-field-hook.php:8
+msgid "Action Hook"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:35
+msgid "Linear Scale"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:46
+msgid "Checkbox Grid"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:57
+msgid "Multiple Choice Grid"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:68
+msgid "Repeat Field"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:79
+#: includes/class-forms-list.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-pro-upgrade-fields.php:90
+msgid "Step Start"
+msgstr ""
+
+#: includes/class-admin-form-handler.php:152
+msgid "Form duplicated successfully"
+msgstr ""
+
+#: includes/class-admin-template.php:95 includes/class-notification.php:428
+#: includes/class-smart-tags.php:33
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-admin-template.php:96 includes/class-forms-list.php:29
+#: includes/class-notification.php:419 includes/class-smart-tags.php:24
+#: includes/fields/class-field-date.php:9
+msgid "Date"
+msgstr ""
+
+#: includes/class-admin.php:36
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-admin.php:42
+msgid "ReCaptcha"
+msgstr ""
+
+#: includes/class-admin.php:55
+msgid "ReCaptcha Type"
+msgstr ""
+
+#: includes/class-admin.php:66
+msgid "Site Key"
+msgstr ""
+
+#: includes/class-admin.php:73
+msgid "Site Secret"
+msgstr ""
+
+#: includes/class-admin.php:104 includes/class-admin.php:124
+#: includes/class-admin.php:126 includes/class-admin.php:155
+#: includes/html/form-list-view.php:6
+msgid "Forms"
+msgstr ""
+
+#: includes/class-admin.php:125 includes/class-notification.php:408
+#: includes/class-smart-tags.php:13 includes/widgets/class-form-widget.php:39
+msgid "Form"
+msgstr ""
+
+#: includes/class-admin.php:127 includes/html/form-list-view.php:7
+msgid "Add Form"
+msgstr ""
+
+#: includes/class-admin.php:128
+msgid "Add New Form"
+msgstr ""
+
+#: includes/class-admin.php:129
+msgid "Edit"
+msgstr ""
+
+#: includes/class-admin.php:130
+msgid "Edit Form"
+msgstr ""
+
+#: includes/class-admin.php:131
+msgid "New Form"
+msgstr ""
+
+#: includes/class-admin.php:132 includes/class-admin.php:133
+msgid "View Form"
+msgstr ""
+
+#: includes/class-admin.php:134
+msgid "Search Form"
+msgstr ""
+
+#: includes/class-admin.php:135
+msgid "No Form Found"
+msgstr ""
+
+#: includes/class-admin.php:136
+msgid "No Form Found in Trash"
+msgstr ""
+
+#: includes/class-admin.php:137
+msgid "Parent Form"
+msgstr ""
+
+#: includes/class-admin.php:154
+msgid "Contactum"
+msgstr ""
+
+#: includes/class-admin.php:156 includes/class-forms-list.php:30
+#: includes/class-forms-list.php:148 includes/class-forms-list.php:149
+msgid "Entries"
+msgstr ""
+
+#: includes/class-admin.php:157
+msgid "Tools"
+msgstr ""
+
+#: includes/class-admin.php:158 includes/class-admin.php:213
+msgid "Settings"
+msgstr ""
+
+#: includes/class-ajax.php:32
+msgid "Unauthorized operation"
+msgstr ""
+
+#: includes/class-ajax.php:41
+msgid "Invalid form id"
+msgstr ""
+
+#: includes/class-ajax.php:196
+msgid "No file found to import."
+msgstr ""
+
+#: includes/class-ajax.php:205
+msgid "The forms have been imported successfully!"
+msgstr ""
+
+#: includes/class-ajax.php:207
+msgid "Something went wrong importing the file."
+msgstr ""
+
+#: includes/class-ajax.php:210
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: includes/class-ajax.php:228
+msgid "No form field was found."
+msgstr ""
+
+#: includes/class-assets.php:45 includes/class-assets.php:140
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-assets.php:46 includes/class-assets.php:113
+msgid "Yes, delete it"
+msgstr ""
+
+#: includes/class-assets.php:47 includes/class-assets.php:114
+msgid "No, cancel it"
+msgstr ""
+
+#: includes/class-assets.php:55 includes/fields/class-field-file.php:91
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/class-assets.php:61
+msgid "Maximum number of files reached!"
+msgstr ""
+
+#: includes/class-assets.php:62
+msgid "The file you have uploaded exceeds the file size limit. Please try again."
+msgstr ""
+
+#: includes/class-assets.php:63
+msgid "You have uploaded an incorrect file type. Please try again."
+msgstr ""
+
+#: includes/class-assets.php:65
+msgid "Please fix the errors to proceed"
+msgstr ""
+
+#: includes/class-assets.php:110
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/class-assets.php:111
+msgid "Quiz Options"
+msgstr ""
+
+#: includes/class-assets.php:112
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: includes/class-assets.php:115
+msgid "OK"
+msgstr ""
+
+#: includes/class-assets.php:116
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-assets.php:117
+msgid "Close"
+msgstr ""
+
+#: includes/class-assets.php:118
+msgid "Disable"
+msgstr ""
+
+#: includes/class-assets.php:119
+msgid "This field must contain at least one choice"
+msgstr ""
+
+#: includes/class-assets.php:120
+msgid "Option"
+msgstr ""
+
+#: includes/class-assets.php:121
+msgid "Row"
+msgstr ""
+
+#: includes/class-assets.php:122
+msgid "Column"
+msgstr ""
+
+#: includes/class-assets.php:123
+msgid "This field must contain at least one column"
+msgstr ""
+
+#: includes/class-assets.php:124
+msgid "is available in Pro version"
+msgstr ""
+
+#: includes/class-assets.php:125
+msgid "Please upgrade to the Pro version to unlock all these awesome features"
+msgstr ""
+
+#: includes/class-assets.php:126
+msgid "Get the Pro version"
+msgstr ""
+
+#: includes/class-assets.php:127
+msgid "Select"
+msgstr ""
+
+#: includes/class-assets.php:128
+msgid "Saved form data"
+msgstr ""
+
+#: includes/class-assets.php:129
+msgid "You have unsaved changes."
+msgstr ""
+
+#: includes/class-assets.php:130
+msgid "Are you sure to leave this page?"
+msgstr ""
+
+#: includes/class-assets.php:131
+msgid "Click to copy shortcode"
+msgstr ""
+
+#: includes/class-assets.php:133
+msgid "Select an image"
+msgstr ""
+
+#: includes/class-assets.php:134
+msgid "Please select an image"
+msgstr ""
+
+#: includes/class-assets.php:135
+msgid "Upload an image"
+msgstr ""
+
+#: includes/class-assets.php:137
+msgid "Share Your Form"
+msgstr ""
+
+#: includes/class-assets.php:138
+msgid ""
+"Sharing your form enables <strong>anyone</strong> to view and submit the "
+"form without inserting the shortcode to a page."
+msgstr ""
+
+#: includes/class-assets.php:139
+msgid "Anyone with this URL will be able to view and submit this form."
+msgstr ""
+
+#: includes/class-assets.php:141
+msgid "You must select a notification"
+msgstr ""
+
+#: includes/class-assets.php:142
+msgid "Anyone with existing URL won't be able to view and submit the form anymore."
+msgstr ""
+
+#: includes/class-assets.php:143
+msgid "Disable Sharing"
+msgstr ""
+
+#: includes/class-assets.php:190
+msgid "is required"
+msgstr ""
+
+#: includes/class-assets.php:191
+msgid "does not match"
+msgstr ""
+
+#: includes/class-assets.php:192
+msgid "is not valid"
+msgstr ""
+
+#: includes/class-assets.php:193
+msgid "requires a unique entry and this value has already been used"
+msgstr ""
+
+#: includes/class-entries-list.php:68 includes/class-entries-list.php:209
+msgid "Trash"
+msgstr ""
+
+#: includes/class-entries-list.php:78
+msgid "You do not have any form entries yet"
+msgstr ""
+
+#: includes/class-entries-list.php:85
+msgid "Date Created"
+msgstr ""
+
+#: includes/class-entries-list.php:86
+msgid "Action"
+msgstr ""
+
+#: includes/class-entries-list.php:165
+msgid "Restore form entry"
+msgstr ""
+
+#: includes/class-entries-list.php:177 includes/class-entries-list.php:260
+msgid "Restore"
+msgstr ""
+
+#: includes/class-entries-list.php:178
+msgid "Delete form entry"
+msgstr ""
+
+#: includes/class-entries-list.php:190 includes/class-entries-list.php:261
+#: includes/class-forms-list.php:328
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-entries-list.php:195
+msgid "View"
+msgstr ""
+
+#: includes/class-entries-list.php:197
+#. translators: %s: entry name
+msgid "Trash form entry"
+msgstr ""
+
+#: includes/class-entries-list.php:263
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/class-entries-list.php:272
+msgid "Filter"
+msgstr ""
+
+#: includes/class-entries-list.php:286
+msgid "Filter by form"
+msgstr ""
+
+#: includes/class-entry-manager.php:32
+msgid "No form ID was found."
+msgstr ""
+
+#: includes/class-entry-manager.php:36
+msgid "No form fields were found."
+msgstr ""
+
+#: includes/class-entry-manager.php:42
+msgid "Could not create an entry"
+msgstr ""
+
+#: includes/class-field-manager.php:124
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/class-field-manager.php:143
+msgid "Others"
+msgstr ""
+
+#: includes/class-form-preview.php:41
+msgid "You must be logged in to preview this form."
+msgstr ""
+
+#: includes/class-form.php:113
+msgid "The form is not published yet."
+msgstr ""
+
+#: includes/class-forms-list.php:26 includes/class-notification.php:412
+#: includes/class-smart-tags.php:17
+msgid "Form Name"
+msgstr ""
+
+#: includes/class-forms-list.php:28
+msgid "Author"
+msgstr ""
+
+#: includes/class-forms-list.php:141 includes/class-forms-list.php:142
+#: includes/html/export.php:53
+msgid "Export Entries"
+msgstr ""
+
+#: includes/class-forms-list.php:155
+msgid "View preview"
+msgstr ""
+
+#: includes/class-forms-list.php:156
+msgid "Preview"
+msgstr ""
+
+#: includes/class-forms-list.php:173
+msgid "Duplicate this form"
+msgstr ""
+
+#: includes/class-forms-list.php:174
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-forms-list.php:191
+msgid "Delete this form"
+msgstr ""
+
+#: includes/class-forms-list.php:192
+msgid "Delete"
+msgstr ""
+
+#: includes/class-forms-list.php:223
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: includes/class-forms-list.php:235
+#. translators: %s: Time
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-forms-list.php:239
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/class-frontend.php:24
+msgid "The form couldn't be found."
+msgstr ""
+
+#: includes/class-notification.php:410 includes/class-smart-tags.php:15
+msgid "Entry ID"
+msgstr ""
+
+#: includes/class-notification.php:411 includes/class-smart-tags.php:16
+msgid "Form ID"
+msgstr ""
+
+#: includes/class-notification.php:416 includes/class-smart-tags.php:21
+msgid "System"
+msgstr ""
+
+#: includes/class-notification.php:418 includes/class-smart-tags.php:23
+msgid "Site Administrator Email"
+msgstr ""
+
+#: includes/class-notification.php:420 includes/class-smart-tags.php:25
+msgid "Site Title"
+msgstr ""
+
+#: includes/class-notification.php:421 includes/class-smart-tags.php:26
+msgid "Site URL"
+msgstr ""
+
+#: includes/class-notification.php:422 includes/class-smart-tags.php:27
+msgid "Embedded Page Title"
+msgstr ""
+
+#: includes/class-notification.php:426 includes/class-smart-tags.php:31
+msgid "User"
+msgstr ""
+
+#: includes/class-notification.php:429 includes/class-smart-tags.php:34
+msgid "User ID"
+msgstr ""
+
+#: includes/class-notification.php:430 includes/class-smart-tags.php:35
+msgid "First Name"
+msgstr ""
+
+#: includes/class-notification.php:431 includes/class-smart-tags.php:36
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-notification.php:432 includes/class-smart-tags.php:37
+msgid "Display Name"
+msgstr ""
+
+#: includes/class-notification.php:433 includes/class-smart-tags.php:38
+#: includes/fields/class-field-email.php:11
+msgid "Email"
+msgstr ""
+
+#: includes/class-notification.php:437 includes/class-smart-tags.php:42
+msgid "URL's"
+msgstr ""
+
+#: includes/class-notification.php:439 includes/class-smart-tags.php:44
+msgid "Embeded Page URL"
+msgstr ""
+
+#: includes/class-notification.php:440 includes/class-smart-tags.php:45
+msgid "Referer URL"
+msgstr ""
+
+#: includes/class-notification.php:441 includes/class-smart-tags.php:46
+msgid "Login URL"
+msgstr ""
+
+#: includes/class-notification.php:442 includes/class-smart-tags.php:47
+msgid "Logout URL"
+msgstr ""
+
+#: includes/class-notification.php:443 includes/class-smart-tags.php:48
+msgid "Register URL"
+msgstr ""
+
+#: includes/class-notification.php:444 includes/class-smart-tags.php:49
+msgid "Lost Password URL"
+msgstr ""
+
+#: includes/class-settings-api.php:363
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-settings-api.php:537
+msgid "Save Settings"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:71
+#: includes/importer/class-importer-abstract.php:567
+msgid "- select -"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:100
+msgid "Field Label"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:104
+#: includes/fields/class-field-submit.php:71
+msgid "Enter a title of this field"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:109
+msgid "Help text"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:113
+msgid "Give the user some information about this field"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:118
+msgid "Required"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:122
+#: includes/widgets/class-form-elementor-widget.php:375
+msgid "Yes"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:123
+#: includes/widgets/class-form-elementor-widget.php:376
+msgid "No"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:129
+msgid "This Field is Required"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:130
+msgid ""
+"Check this option to mark the field required. A form will not submit unless "
+"all required fields are provided."
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:135
+msgid "Field Size"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:138
+#: includes/fields/class-field-submit.php:79
+msgid "Small"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:139
+#: includes/fields/class-field-submit.php:80
+msgid "Medium"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:140
+#: includes/fields/class-field-submit.php:81
+msgid "Large"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:150
+#: includes/fields/class-field-submit.php:221
+msgid "CSS Class Name"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:154
+msgid ""
+"Provide a container class name for this field. Available classes: "
+"contactum-col-half, contactum-col-half-last, contactum-col-one-third, "
+"contactum-col-one-third-last"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:163
+#: includes/fields/class-field-hidden.php:28
+#: includes/fields/class-field-html.php:33
+#: includes/fields/class-field-sectionbreak.php:40
+#: includes/fields/class-field-toc.php:28
+msgid "Meta Key"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:168
+#: includes/fields/class-field-hidden.php:32
+#: includes/fields/class-field-html.php:38
+#: includes/fields/class-field-sectionbreak.php:44
+#: includes/fields/class-field-toc.php:32
+msgid "Name of the meta key this field will save to"
+msgstr ""
+
+#: includes/fields/class-abstract-fields.php:186
+#: includes/fields/class-field-html.php:42
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/fields/class-field-address.php:9
+#: includes/templates/class-template-volunteer-application.php:79
+msgid "Address"
+msgstr ""
+
+#: includes/fields/class-field-address.php:107
+msgid "Address Fields"
+msgstr ""
+
+#: includes/fields/class-field-address.php:129
+msgid "Address Line 1"
+msgstr ""
+
+#: includes/fields/class-field-address.php:138
+msgid "Address Line 2"
+msgstr ""
+
+#: includes/fields/class-field-address.php:147
+msgid "City"
+msgstr ""
+
+#: includes/fields/class-field-address.php:156
+msgid "State"
+msgstr ""
+
+#: includes/fields/class-field-address.php:165
+msgid "Zip Code"
+msgstr ""
+
+#: includes/fields/class-field-address.php:174
+#: includes/fields/class-field-country.php:9
+msgid "Country"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:11
+msgid "Checkbox"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:69
+msgid "Layout"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:72
+#: includes/fields/class-field-submit.php:94
+msgid "Default"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:73
+msgid "Inline"
+msgstr ""
+
+#: includes/fields/class-field-checkbox.php:79
+msgid "Show this option in an inline list"
+msgstr ""
+
+#: includes/fields/class-field-date.php:59
+msgid "Date Format"
+msgstr ""
+
+#: includes/fields/class-field-date.php:63
+#: includes/fields/class-field-date.php:67
+msgid "m/d/Y - (Ex: 04/28/2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:64
+msgid "m/d/Y - (Ex: 04/28/18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:65
+msgid "m/d/Y - (Ex: 28/04/2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:66
+msgid "d.m.Y - (Ex: 28.04.2018)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:68
+msgid "y/m/d - (Ex: 28/04/18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:69
+msgid "d-m-y - (Ex: 28-04-18)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:70
+msgid "h:i K - (Ex: 08:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:71
+msgid "H:i - (Ex: 20:55 )"
+msgstr ""
+
+#: includes/fields/class-field-date.php:72
+msgid "d.m.Y H:i K- (Ex: 28.04.2018 20:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:73
+msgid "d/m/Y H:i K- (Ex: 28/04/2018 20:55 PM)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:74
+msgid "d.m.Y H:i - (Ex: 28.04.2018 20:55)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:75
+msgid "d/m/Y H:i - (Ex: 28/04/2018 20:55)"
+msgstr ""
+
+#: includes/fields/class-field-date.php:76
+msgid "H:i - (Ex: 28-04-18 )"
+msgstr ""
+
+#: includes/fields/class-field-date.php:80
+msgid "The date format"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:11
+msgid "DropDown"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:55
+msgid "Select Text"
+msgstr ""
+
+#: includes/fields/class-field-dropdown.php:88
+#: includes/fields/class-field-multidropdown.php:82
+msgid "— Select —"
+msgstr ""
+
+#: includes/fields/class-field-email.php:63
+#: includes/fields/class-field-phone.php:72
+#: includes/fields/class-field-url.php:55
+msgid "Unique Values Only"
+msgstr ""
+
+#: includes/fields/class-field-email.php:68
+#: includes/fields/class-field-phone.php:77
+#: includes/fields/class-field-url.php:60
+msgid ""
+"Select this option to limit user input to unique values only. This will "
+"require that a value entered in a field does not currently exist in the "
+"entry database for that field."
+msgstr ""
+
+#: includes/fields/class-field-email.php:76
+msgid "Auto-populate Email"
+msgstr ""
+
+#: includes/fields/class-field-email.php:81
+msgid ""
+"If a user is logged into the site, this email field will be auto-populated "
+"with his email. And form's email field will be hidden."
+msgstr ""
+
+#: includes/fields/class-field-file.php:8
+msgid "File"
+msgstr ""
+
+#: includes/fields/class-field-file.php:33
+#: includes/fields/class-field-file.php:34
+msgid "Select File(s)"
+msgstr ""
+
+#: includes/fields/class-field-file.php:70
+#: includes/fields/class-field-image.php:74
+msgid "Max. file size"
+msgstr ""
+
+#: includes/fields/class-field-file.php:75
+#: includes/fields/class-field-image.php:78
+msgid "Enter maximum upload size limit in KB"
+msgstr ""
+
+#: includes/fields/class-field-file.php:80
+#: includes/fields/class-field-image.php:83
+msgid "Max. files"
+msgstr ""
+
+#: includes/fields/class-field-file.php:85
+#: includes/fields/class-field-image.php:87
+msgid "Number of images can be uploaded"
+msgstr ""
+
+#: includes/fields/class-field-file.php:95
+msgid "Images (jpg, jpeg, gif, png, bmp)"
+msgstr ""
+
+#: includes/fields/class-field-file.php:96
+msgid "Audio (mp3, wav, ogg, wma, mka, m4a, ra, mid, midi)"
+msgstr ""
+
+#: includes/fields/class-field-file.php:97
+msgid "Videos (avi, divx, flv, mov, ogv, mkv, mp4, m4v, divx, mpg, mpeg, mpe)"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:9
+msgid "Hidden"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:36
+msgid "Meta Value"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:40
+msgid "Enter the meta value"
+msgstr ""
+
+#: includes/fields/class-field-hidden.php:48
+msgid ""
+"Check this option to allow field to be populated dynamically using "
+"hooks/query string/shortcode"
+msgstr ""
+
+#: includes/fields/class-field-hook.php:27
+msgid "Hook Name"
+msgstr ""
+
+#: includes/fields/class-field-hook.php:31
+msgid "Name of the hook"
+msgstr ""
+
+#: includes/fields/class-field-hook.php:40
+msgid ""
+"An option for developers to add dynamic elements they want. It provides the "
+"chance to add whatever input type you want to add in this form. This way, "
+"you can bind your own functions to render the form to this action hook. "
+"You'll be given 3 parameters to play with: $form_id, $post_id, "
+"$form_settings."
+msgstr ""
+
+#: includes/fields/class-field-html.php:9
+msgid "Html"
+msgstr ""
+
+#: includes/fields/class-field-html.php:25
+msgid "Html Codes"
+msgstr ""
+
+#: includes/fields/class-field-html.php:29
+msgid "Paste your HTML codes, WordPress shortcodes will also work here"
+msgstr ""
+
+#: includes/fields/class-field-html.php:57
+msgid "HTML Section"
+msgstr ""
+
+#: includes/fields/class-field-image.php:9
+msgid "Image"
+msgstr ""
+
+#: includes/fields/class-field-image.php:91
+msgid "Button Label"
+msgstr ""
+
+#: includes/fields/class-field-image.php:93
+#: includes/fields/class-field-image.php:125
+msgid "Select Image"
+msgstr ""
+
+#: includes/fields/class-field-image.php:96
+msgid "Enter a label for the Select button"
+msgstr ""
+
+#: includes/fields/class-field-image.php:101
+msgid "Allowed Images"
+msgstr ""
+
+#: includes/fields/class-field-image.php:105
+msgid "JPG"
+msgstr ""
+
+#: includes/fields/class-field-image.php:106
+msgid "JPEG"
+msgstr ""
+
+#: includes/fields/class-field-image.php:107
+msgid "PNG"
+msgstr ""
+
+#: includes/fields/class-field-image.php:108
+msgid "GIF"
+msgstr ""
+
+#: includes/fields/class-field-image.php:109
+msgid "BMP"
+msgstr ""
+
+#: includes/fields/class-field-math-captcha.php:9
+msgid "Math Captcha"
+msgstr ""
+
+#: includes/fields/class-field-multidropdown.php:8
+msgid "Multi Select"
+msgstr ""
+
+#: includes/fields/class-field-name.php:9
+msgid "Name"
+msgstr ""
+
+#: includes/fields/class-field-name.php:139
+msgid "Auto-populate Name"
+msgstr ""
+
+#: includes/fields/class-field-name.php:144
+msgid ""
+"If a user is logged into the site, this name field will be auto-populated "
+"with his first-last/display name. And form's name field will be hidden."
+msgstr ""
+
+#: includes/fields/class-field-name.php:148
+msgid "Label"
+msgstr ""
+
+#: includes/fields/class-field-name.php:152
+msgid "Select format to use for the name field"
+msgstr ""
+
+#: includes/fields/class-field-name.php:196
+#: includes/importer/class-importer-wpforms.php:164
+msgid "First"
+msgstr ""
+
+#: includes/fields/class-field-name.php:205
+#: includes/importer/class-importer-wpforms.php:169
+msgid "Middle"
+msgstr ""
+
+#: includes/fields/class-field-name.php:214
+#: includes/importer/class-importer-wpforms.php:174
+msgid "Last"
+msgstr ""
+
+#: includes/fields/class-field-number.php:9
+msgid "Numeric"
+msgstr ""
+
+#: includes/fields/class-field-number.php:58
+msgid "Step"
+msgstr ""
+
+#: includes/fields/class-field-number.php:68
+msgid "Min Value"
+msgstr ""
+
+#: includes/fields/class-field-number.php:78
+msgid "Max Value"
+msgstr ""
+
+#: includes/fields/class-field-password.php:11
+msgid "Password"
+msgstr ""
+
+#: includes/fields/class-field-phone.php:8
+#: includes/templates/class-template-event-registration.php:68
+msgid "Phone"
+msgstr ""
+
+#: includes/fields/class-field-phone.php:86
+msgid "(+###) ###-####"
+msgstr ""
+
+#: includes/fields/class-field-phone.php:87
+msgid "(+##) ###-####"
+msgstr ""
+
+#: includes/fields/class-field-phone.php:88
+msgid "International"
+msgstr ""
+
+#: includes/fields/class-field-phone.php:93
+msgid "Select this option to add masking to phone field."
+msgstr ""
+
+#: includes/fields/class-field-radio.php:11
+msgid "Radio"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:9
+msgid "Recaptcha"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:24
+#: includes/fields/class-field-recaptcha.php:63
+msgid "reCaptcha API key is missing."
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:129
+msgid "Site key and Secret key"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:131
+msgid ""
+"You need to set Site key and Secret key in <a href=\"%s\" "
+"target=\"_blank\">Settings</a> in order to use \"Recaptcha\" field. <a "
+"href=\"%s\" target=\"_blank\">Click here to get the these key</a>."
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:147
+#: includes/fields/class-field-sectionbreak.php:32
+#: includes/widgets/class-form-elementor-widget.php:634
+msgid "Title"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:151
+#: includes/fields/class-field-sectionbreak.php:36
+msgid "Title of the section"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:158
+msgid "Enable noCaptcha"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:159
+msgid "Enable Invisible reCaptcha"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:164
+msgid "Select reCaptcha type"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:172
+msgid "Light"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:173
+msgid "Dark"
+msgstr ""
+
+#: includes/fields/class-field-recaptcha.php:178
+msgid "Select reCaptcha Theme"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:9
+#: includes/widgets/class-form-elementor-widget.php:604
+msgid "Section Break"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:48
+#: includes/templates/class-template-support.php:94
+#: includes/widgets/class-form-elementor-widget.php:654
+msgid "Description"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:52
+msgid "Some details text about the section"
+msgstr ""
+
+#: includes/fields/class-field-sectionbreak.php:63
+msgid "Some description about this section"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:9 includes/functions.php:63
+msgid "Submit"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:67
+msgid "Submit Button Text"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:76
+msgid "Button Size"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:91
+msgid "Button Style"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:95
+msgid "No Style"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:96
+msgid "Red"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:97
+msgid "Green"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:98
+msgid "Orange"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:99
+msgid "Gray"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:100
+msgid "Custom"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:106
+msgid "Normal Background Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:115
+msgid "Normal Border Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:125
+msgid "Normal Border Radius"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:134
+msgid "Normal Font Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:143
+msgid "Normal Minimum Width"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:153
+msgid "Hover Background Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:162
+msgid "Hover Border Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:172
+msgid "Hover Border Radius"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:182
+msgid "Hover Font Color"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:191
+msgid "Hover Minimum Width"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:206
+msgid "Alignment"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:209
+#: includes/widgets/class-form-elementor-widget.php:418
+msgid "Left"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:210
+#: includes/widgets/class-form-elementor-widget.php:422
+msgid "Center"
+msgstr ""
+
+#: includes/fields/class-field-submit.php:211
+#: includes/widgets/class-form-elementor-widget.php:426
+msgid "Right"
+msgstr ""
+
+#: includes/fields/class-field-text.php:11
+msgid "Text"
+msgstr ""
+
+#: includes/fields/class-field-textarea.php:11
+msgid "Textarea"
+msgstr ""
+
+#: includes/fields/class-field-toc.php:8
+msgid "Toc"
+msgstr ""
+
+#: includes/fields/class-field-toc.php:37
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/fields/class-field-toc.php:47
+msgid "Show checkbox"
+msgstr ""
+
+#: includes/fields/class-field-toc.php:61
+msgid ""
+"I have read and agree to the <a href=\"#\">Terms and Conditions</a> and <a "
+"href=\"#\">Privacy Policy</a>"
+msgstr ""
+
+#: includes/fields/class-field-url.php:10
+msgid "Url"
+msgstr ""
+
+#: includes/fields/class-fields-pro.php:19
+msgid "This is a premium field. You need to upgrade."
+msgstr ""
+
+#: includes/fields/field-trait.php:10 includes/fields/field-trait.php:91
+msgid "Placeholder text"
+msgstr ""
+
+#: includes/fields/field-trait.php:15 includes/fields/field-trait.php:95
+msgid "Text for HTML5 placeholder attribute"
+msgstr ""
+
+#: includes/fields/field-trait.php:20 includes/fields/field-trait.php:103
+msgid "Default value"
+msgstr ""
+
+#: includes/fields/field-trait.php:25 includes/fields/field-trait.php:107
+msgid "The default value this field will have"
+msgstr ""
+
+#: includes/fields/field-trait.php:29
+msgid "Size"
+msgstr ""
+
+#: includes/fields/field-trait.php:34
+msgid "Size of this input field"
+msgstr ""
+
+#: includes/fields/field-trait.php:41
+msgid "Word Restriction"
+msgstr ""
+
+#: includes/fields/field-trait.php:45
+msgid "Numebr of words the author to be restricted in"
+msgstr ""
+
+#: includes/fields/field-trait.php:58
+msgid "Options"
+msgstr ""
+
+#: includes/fields/field-trait.php:63
+msgid "Add options for the form field"
+msgstr ""
+
+#: includes/fields/field-trait.php:73
+msgid "Rows"
+msgstr ""
+
+#: includes/fields/field-trait.php:77
+msgid "Number of rows in textarea"
+msgstr ""
+
+#: includes/fields/field-trait.php:82
+msgid "Columns"
+msgstr ""
+
+#: includes/fields/field-trait.php:86
+msgid "Number of columns in textarea"
+msgstr ""
+
+#: includes/functions.php:29 includes/functions.php:31
+msgid "New Form Submission"
+msgstr ""
+
+#: includes/functions.php:30
+msgid "Admin Notification"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Thanks for contact us! We will get in touch with you shortly."
+msgstr ""
+
+#: includes/functions.php:67 includes/importer/class-importer-abstract.php:906
+msgid "Form submission hasn't been started yet"
+msgstr ""
+
+#: includes/functions.php:68 includes/importer/class-importer-abstract.php:907
+msgid "Form submission is now closed."
+msgstr ""
+
+#: includes/functions.php:70 includes/importer/class-importer-abstract.php:909
+msgid "You need to login to submit a query."
+msgstr ""
+
+#: includes/functions.php:73 includes/importer/class-importer-abstract.php:912
+msgid "Sorry, we have reached the maximum number of submissions."
+msgstr ""
+
+#: includes/functions.php:1315
+msgid "Images"
+msgstr ""
+
+#: includes/functions.php:1319
+msgid "Audio"
+msgstr ""
+
+#: includes/functions.php:1323
+msgid "Videos"
+msgstr ""
+
+#: includes/functions.php:1327
+msgid "PDF"
+msgstr ""
+
+#: includes/functions.php:1331
+msgid "Office Documents"
+msgstr ""
+
+#: includes/functions.php:1335
+msgid "Zip Archives"
+msgstr ""
+
+#: includes/functions.php:1339
+msgid "Executable Files"
+msgstr ""
+
+#: includes/functions.php:1343
+msgid "CSV"
+msgstr ""
+
+#: includes/html/entry.php:10
+msgid "Entry Details"
+msgstr ""
+
+#: includes/html/entry.php:43
+msgid "Submission Info"
+msgstr ""
+
+#: includes/html/entry.php:48
+msgid "Entry ID:"
+msgstr ""
+
+#: includes/html/entry.php:53
+msgid "Submitted:"
+msgstr ""
+
+#: includes/html/entry.php:58
+msgid "User:"
+msgstr ""
+
+#: includes/html/entry.php:63
+msgid "User IP:"
+msgstr ""
+
+#: includes/html/entry.php:68
+msgid "Referer Link:"
+msgstr ""
+
+#: includes/html/export.php:11
+msgid "Export Contactum Forms with Settings"
+msgstr ""
+
+#: includes/html/export.php:15
+msgid "All"
+msgstr ""
+
+#: includes/html/export.php:20
+msgid "Select individual"
+msgstr ""
+
+#: includes/html/export.php:24
+msgid "Select form"
+msgstr ""
+
+#: includes/html/export.php:24
+msgid "Select a form"
+msgstr ""
+
+#: includes/html/export.php:33 includes/html/tools.php:4
+msgid "Export"
+msgstr ""
+
+#: includes/html/export.php:39
+msgid "You need to create a form before you can use form export."
+msgstr ""
+
+#: includes/html/export.php:43
+msgid "Export Contactum Forms Entries"
+msgstr ""
+
+#: includes/html/export.php:47
+msgid "&mdash; Select Form &mdash;"
+msgstr ""
+
+#: includes/html/export.php:56
+msgid "There is no form entries found"
+msgstr ""
+
+#: includes/html/form-list-view.php:16
+msgid "Search Forms"
+msgstr ""
+
+#: includes/html/import.php:6
+msgid "Import Contactum Forms"
+msgstr ""
+
+#: includes/html/import.php:7
+msgid "Select JSON file to import the form."
+msgstr ""
+
+#: includes/html/import.php:9
+msgid "files selected"
+msgstr ""
+
+#: includes/html/import.php:15
+#. translators: %s: File format
+msgid "Only %s file is allowed."
+msgstr ""
+
+#: includes/html/import.php:19
+msgid "Import Form"
+msgstr ""
+
+#: includes/html/import.php:29
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/html/import.php:30 includes/html/import.php:34
+#: includes/html/import.php:38 includes/html/import.php:42
+#: includes/html/import.php:46
+msgid "Importing..."
+msgstr ""
+
+#: includes/html/import.php:30 includes/html/import.php:34
+#: includes/html/import.php:38 includes/html/import.php:42
+#: includes/html/import.php:46 includes/html/tools.php:3
+msgid "Import"
+msgstr ""
+
+#: includes/html/import.php:33
+msgid "Ninja Forms"
+msgstr ""
+
+#: includes/html/import.php:37
+msgid "Caldera Forms"
+msgstr ""
+
+#: includes/html/import.php:41
+msgid "Gravity Forms"
+msgstr ""
+
+#: includes/html/import.php:45
+msgid "WP Forms"
+msgstr ""
+
+#: includes/html/modal.php:3
+msgid "Modal window. Press escape to close."
+msgstr ""
+
+#: includes/html/modal.php:4
+msgid "Close modal window"
+msgstr ""
+
+#: includes/html/modal.php:6
+msgid "Select a Template"
+msgstr ""
+
+#: includes/html/modal.php:28
+msgid "This integration is not installed."
+msgstr ""
+
+#: includes/html/modal.php:44
+msgid "Create Form"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:152
+msgid "%s Detected"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:156
+msgid "Import Forms"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:157
+#: includes/importer/class-importer-abstract.php:187
+msgid "No Thanks"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:186
+msgid "Replace Shortcodes"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:263
+#: includes/importer/class-importer-abstract.php:274
+msgid "Uh oh!"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:264
+msgid "%s is not installed."
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:275
+msgid "No forms found!"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:317
+msgid "%s form imported"
+msgid_plural "%s forms imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/importer/class-importer-abstract.php:318
+msgid ""
+"We have successfully imported these forms into contactum. You could check "
+"and edit in-case anything weird happended."
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:319
+msgid "Do you want to <strong>replace</strong> %s shortcodes with contactum?"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:335
+msgid "Not a valid action type."
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:349
+msgid "No pages found with shortcode. Skipped!"
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:381
+msgid "Replaced %d form"
+msgid_plural "Replaced %d forms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/importer/class-importer-abstract.php:391
+msgid "You are not allowed."
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:898
+#: includes/importer/class-importer-gf.php:273
+msgid "Thanks for contacting us! We will get in touch with you shortly."
+msgstr ""
+
+#: includes/importer/class-importer-abstract.php:901
+#: includes/importer/class-importer-gf.php:276
+msgid "Submit Query"
+msgstr ""
+
+#: includes/templates/class-template-blank.php:10
+msgid "Blank Form"
+msgstr ""
+
+#: includes/templates/class-template-blank.php:11
+msgid "Create a simple Blank form."
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:15
+msgid "Conference Proposal"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:16
+msgid ""
+"A winning conference in any industry demands the highest quality candidates "
+"and presentations."
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:62
+msgid "Job Title"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:66
+msgid "Company  Name"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:70
+msgid "Biography"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:75
+#: includes/templates/class-template-volunteer-application.php:67
+msgid "Email Address"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:79
+#: includes/templates/class-template-leave-request.php:70
+#: includes/templates/class-template-volunteer-application.php:73
+msgid "Phone Number"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:83
+msgid "Proposal Title"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:87
+msgid "Short Description"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:91
+msgid "Abstract"
+msgstr ""
+
+#: includes/templates/class-template-conference-proposal.php:160
+msgid "Additional Information"
+msgstr ""
+
+#: includes/templates/class-template-contact.php:14
+msgid "Contact Form"
+msgstr ""
+
+#: includes/templates/class-template-contact.php:15
+#: includes/templates/class-template-support.php:15
+msgid "Create a simple Contact form"
+msgstr ""
+
+#: includes/templates/class-template-contact.php:39
+msgid "Message"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:16
+msgid "Event Registration"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:17
+msgid ""
+"Get your visitors to register for an upcoming event quickly with this "
+"registration form template."
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:72
+msgid "Company"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:77
+msgid "Website"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:83
+msgid "Have you attended before?"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:101
+msgid "Dietary Requirements"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:167
+msgid "Comments or Questions"
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:184
+msgid "Thanks for signing up! We will get in touch with you shortly."
+msgstr ""
+
+#: includes/templates/class-template-event-registration.php:185
+msgid "Register"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:15
+msgid "Request for Leave"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:16
+msgid ""
+"Get an instant leave request from your employees with this easy to fill-out "
+"a request form and get details without any conflicts."
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:64
+msgid "Employee ID"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:75
+msgid "Position"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:81
+msgid "Manager"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:87
+msgid "Leave Start"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:93
+msgid "Leave End"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:99
+msgid "Leave Type"
+msgstr ""
+
+#: includes/templates/class-template-leave-request.php:126
+#: includes/templates/class-template-volunteer-application.php:131
+msgid "Comments"
+msgstr ""
+
+#: includes/templates/class-template-support.php:14
+msgid "Support Form"
+msgstr ""
+
+#: includes/templates/class-template-support.php:66
+msgid "Department"
+msgstr ""
+
+#: includes/templates/class-template-support.php:89
+msgid "Subject"
+msgstr ""
+
+#: includes/templates/class-template-volunteer-application.php:14
+msgid "Volunteer Application Form"
+msgstr ""
+
+#: includes/templates/class-template-volunteer-application.php:15
+msgid ""
+"Get volunteer applications easily and find out which days your volunteers "
+"want to work according to their particular interests."
+msgstr ""
+
+#: includes/templates/class-template-volunteer-application.php:29
+msgid "Volunteer Application"
+msgstr ""
+
+#: includes/templates/class-template-volunteer-application.php:84
+msgid "Skillsets or Area of Interests"
+msgstr ""
+
+#: includes/templates/class-template-volunteer-application.php:89
+msgid "Days of Work"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:23
+#: includes/widgets/class-form-elementor-widget.php:62
+#: includes/widgets/class-form-elementor-widget.php:70
+msgid "Contactum Form"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:83
+msgid "Form Fields"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:91
+msgid "Large Field Width"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:118
+msgid "Field Spacing"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:130
+#: includes/widgets/class-form-elementor-widget.php:290
+#: includes/widgets/class-form-elementor-widget.php:457
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:143
+#: includes/widgets/class-form-elementor-widget.php:487
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:156
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:165
+msgid "Field Text Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:176
+msgid "Field Placeholder Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:191
+#: includes/widgets/class-form-elementor-widget.php:526
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:214
+#: includes/widgets/class-form-elementor-widget.php:253
+#: includes/widgets/class-form-elementor-widget.php:546
+#: includes/widgets/class-form-elementor-widget.php:577
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:227
+msgid "Focus"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:270
+msgid "Form Fields Label"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:278
+#: includes/widgets/class-form-elementor-widget.php:445
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:311
+msgid "Label Typography"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:321
+msgid "Help Text Typography"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:330
+msgid "Label Text Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:341
+msgid "Required Label Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:352
+msgid "Help Text Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:365
+msgid "Submit Button"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:373
+msgid "Button Full Width?"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:385
+msgid "Button Width"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:414
+msgid "Button Position"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:533
+#: includes/widgets/class-form-elementor-widget.php:566
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:559
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:588
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:613
+msgid "Title Typography"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:623
+msgid "Description Typography"
+msgstr ""
+
+#: includes/widgets/class-form-elementor-widget.php:641
+#: includes/widgets/class-form-elementor-widget.php:661
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/class-form-widget.php:11
+msgid "Contactum Forms Widget"
+msgstr ""
+
+#: includes/widgets/class-form-widget.php:12
+msgid "Add your form by Contactum Forms"
+msgstr ""
+
+#: includes/widgets/class-form-widget.php:43
+msgid "Select Form"
+msgstr ""
+
+#: includes/widgets/class-form-widget.php:51
+msgid "Title:"
+msgstr ""
+
+#: includes/class-entries-list.php:66
+#. translators: %s: count
+msgctxt "entries"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""

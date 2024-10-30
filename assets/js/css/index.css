@@ -1,0 +1,231 @@
+.contactum-nav {
+  display: flex;
+}
+.contactum-tabs {
+  flex: 1;
+}
+.builder-save {
+  flex: 1;
+  /*background-color: #7e3bd0;*/
+  box-sizing: border-box;
+  /*padding: 20px;*/
+}
+.builder {
+  display: flex;
+}
+.builder-header {
+  display: flex;
+  margin-bottom: 5px;
+}
+.contactum-nav {
+  flex: 1;
+}
+.save_form_builder {
+  display: flex;
+  justify-content: flex-end;
+}
+.save_form_builder button,
+.save_form_builder a {
+  display: block;
+  padding: 8px 15px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.save_form_builder a {
+  text-decoration: none;
+  background: #fff;
+  color: #000;
+  text-align: center;
+}
+.forms-fields-tab {
+  display: flex;
+  width: 100%;
+  background: #fff;
+}
+.forms-fields-tab a {
+  width: 50%;
+  display: block;
+  padding: 15px 0;
+  font-weight: 600;
+  text-align: center;
+  color: #23282d;
+  background: #e9ebf1;
+  border-bottom: 1px solid #cdd0d8;
+}
+.forms-fields-tab a.active {
+  background: #f6f7f9;
+  border-bottom: 1px solid transparent;
+}
+.forms-fields-tab a:first-child {
+  border-right: 1px solid #cdd0d8;
+}
+.form-field {
+  flex-basis: 65%;
+  margin-right: 15px;
+  background: #f9f9f9;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.control-button {
+  /* background: #000;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 1px solid #fff; */
+}
+.field-panel {
+  flex-basis: 35%;
+  background: #f9f9f9;
+  /*padding: 10px;*/
+}
+form#contactum-form-builder {
+  width: 100%;
+}
+.builder-body {
+  display: flex;
+}
+.form-field .control-button {
+  display: none;
+}
+.form-field .control-button {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  -webkit-box-align: center;
+  background: #f9f9f9;
+  /*width: 100%;*/
+  background: #000;
+  top: 40%;
+  left: 40%;
+}
+.form-field ul li:hover > .control-button {
+  display: block;
+}
+.form-field ul li ul {
+  margin-top: 5px;
+}
+.submit_wrapper {
+  display: flex;
+}
+.submit_wrapper .btn-submit {
+  padding: 8px 15px;
+  background: #7e3bd0;
+  color: #fff;
+  display: block;
+  border: none;
+  color: #fff;
+  min-width: 120px;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.form-field ul li {
+  width: 100%;
+  background: #fff;
+  min-width: 70px;
+  padding: 10px;
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 15px;
+}
+.control-button > button {
+  color: #fff;
+  background: #000;
+  padding: 5px 10px;
+  display: inline-flex;
+  border: none;
+  border-right: 1px solid #fff;
+  cursor: pointer;
+}
+.forms-fields-tab button {
+  width: 50%;
+  display: block;
+  padding: 15px 0;
+  font-weight: 600;
+  text-align: center;
+  color: #23282d;
+  background: #e9ebf1;
+  border: none;
+  cursor: pointer;
+  border-right: 1px solid #000;
+}
+ul.contactum-form li.contactum-name .contactum-fields {
+  display: flex;
+  justify-content: space-between;
+}
+ul.contactum-form li.contactum-name .contactum-fields div {
+  margin-right: 10px;
+}
+ul.contactum-form li.field-size-small .contactum-fields {
+  width: 30%;
+}
+ul.contactum-form li.field-size-medium .contactum-fields {
+  width: 65%;
+}
+ul.contactum-form li.field-size-large .contactum-fields {
+  width: 100%;
+}
+ul.contactum-form li.name .contactum-fields {
+  display: flex;
+  justify-content: space-between;
+}
+ul.contactum-form li.name .contactum-fields div {
+  margin-right: 10px;
+}
+ul.contactum-form.form-label-above li .contactum-label {
+  display: block;
+  width: 100%;
+  margin-bottom: 5px;
+}
+ul.contactum-form.form-label-hidden li .contactum-label {
+  display: none;
+}
+.form-builder-container header {
+  margin-bottom: 20px;
+}
+.form-builder-container header button {
+  width: 40px;
+}
+.form-builder-container section {
+  height: calc(100vh - 170px);
+  overflow-y: auto;
+}
+.form-preview-stage .field-items .control-button i.move {
+  cursor: move;
+  color: #fff;
+}
+span.form-id {
+  background: #7e3bd0;
+  padding: 5px 10px;
+  color: #fff;
+  display: inline-block;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.form-builder-container header span i.fa.fa-edit {
+  font-size: 20px;
+  cursor: pointer;
+}
+ul.contactum-form.form-label-left li,
+ul.contactum-form.form-label-right li {
+  display: flex;
+  justify-content: space-between;
+}
+ul.contactum-form.form-label-right li {
+  flex-direction: row-reverse;
+}
+ul.contactum-form.form-label-left li div.contactum-label,
+ul.contactum-form.form-label-right li div.contactum-label {
+  flex-basis: 20%;
+}
+ul.contactum-form.form-label-right li div.contactum-fields {
+  flex-basis: 75%;
+}
+
+

@@ -1,0 +1,32 @@
+.contactum-math-captcha .captcha {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    border: 2px dashed #ddd;
+    border-radius: 3px;
+    background-color: #f4f7fa;
+    padding: 5px 13px;
+    margin: 0;
+}
+
+.contactum-math-captcha .refresh {
+    cursor: pointer;
+}
+
+.contactum-math-captcha .captcha-number-area {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 25%;
+    text-align: justify;
+}
+
+.contactum-math-captcha .captcha-equal {
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.contactum-captcha-input-wrapper input {
+    padding: 10px!important;
+    border-radius: 10px;
+}
